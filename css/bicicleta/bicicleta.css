@@ -61,8 +61,8 @@
 .bicicleta-informacoes,
 .bicicleta-ficha {
   padding: 32px;
-  background-color: var(--cor-12);
   border-radius: 4px;
+  background-color: var(--cor-12);
 }
 
 .bicicleta-informacoes {
