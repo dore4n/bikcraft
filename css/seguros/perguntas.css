@@ -54,7 +54,7 @@
   display: none;
 }
 
-.perguntas dd.ativa {
+.js .perguntas dd.ativa {
   display: block;
 }
 
